@@ -22,7 +22,7 @@ Instant mock REST API generator driven by a JSON schema. Automatically scaffolds
 npm install -g mockflow-api
 
 # Or local project dependency
-npm install --save-dev mockflow-api
+npm install mockflow-api
 ```
 
 ---
